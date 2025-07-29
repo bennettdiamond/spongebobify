@@ -10,6 +10,6 @@ Annoyingly, however, I'm really bad at typing out my mockery as fast as I can th
 
 1. Download/clone/unzip/extract/copy this very repo you're currently reading about.
 
-2. Build using bog-standard `cargo build`
+2. Build using bog-standard `cargo build` (you of course have Rust installed, right?!?!)
 
 3. Run the binary with the flag '--h' to learn the various commands
